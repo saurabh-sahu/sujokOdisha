@@ -511,7 +511,7 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 header.home{
-	background-image:url("../img/sujok/home-height-more.jpg");
+	background-image:url("../img/sujok/home.jpg");
 	background-size: 100%;
 	background-position: 50% 50%;
 	background-attachment: fixed !important;
